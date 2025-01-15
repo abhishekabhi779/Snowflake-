@@ -311,18 +311,7 @@ ORDER BY truck_id;
 ## Conclusion and Resources
 Duration: 1
 
-**Fantastic work!** You have successfully completed the Extracting Insights with Document AI Quickstart walking through the process of moving PDF to tabular result. 
 
-### What you Learned
-- How to Upload Files to a Stage
-- How to Train a Data Extraction Model using Document AI
-- How to Extract Data from Unstructured Documents
-- How to Flatten Semi-Structured Data
 
-### Related Resources
-- [Source Code on GitHub](https://github.com/Snowflake-Labs/sfguide-tasty-bytes-extract-insights-from-unstructured-data-using-document-ai)
-- [Powered by Tasty Bytes - Quickstarts Table of Contents](https://quickstarts.snowflake.com/guide/tasty_bytes_introduction/index.html#3)
-- [Document AI](https://docs.snowflake.com/en/user-guide/snowflake-cortex/document-ai/overview)
-- [Snowflake's Artic-TILT LLM for Document AI Documentation]((https://www.snowflake.com/blog/arctic-tilt-compact-llm-advanced-document-ai/))
 
   
